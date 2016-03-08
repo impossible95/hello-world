@@ -1,6 +1,6 @@
 # hello-world
-My first repository
 
-#####My describe
+Hi!
 
-Hi! My name is Dominik and you'll hear about me yet.
+I'm Dominik, in general I'm interesting JavaScript (AngularJS) and I want to develop with front end profession.
+You'll hear about me yet!
